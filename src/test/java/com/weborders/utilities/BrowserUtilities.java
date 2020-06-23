@@ -113,8 +113,7 @@ public class BrowserUtilities {
     }
 
     /**
-     * This method will switch webdriver from current window
-     * to target window based on page title
+     * This method will switch webdriver from current window to target window based on page title
      * @param title of the window to switch
      */
     public static void scitchWindow(String title){
